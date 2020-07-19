@@ -19,7 +19,7 @@ Requires modules:
 
 7. Set the tile size to the same size as the image (3840x2160 for the small version and 12288x6912 for the large version)
 
-8. Lay them on top of each other
+8. Lay them on top of each other & line them up
 
 9. Click on the Magic Wand to open up FX
 
