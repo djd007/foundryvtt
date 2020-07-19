@@ -23,7 +23,7 @@ Requires modules:
 
 9. Click on the Magic Wand to open up FX
 
-10 Click the Weather Icon
+10. Click the Weather Icon
 
 11. Expand Stars and enable
 
