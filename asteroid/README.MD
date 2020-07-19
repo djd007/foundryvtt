@@ -28,3 +28,8 @@ Requires modules:
 11. Expand Stars and enable
 
 12. Set Tint to color R:90 G:48 B:48 to match the background stars
+
+13. Create a new scene and set the background image to Wormhwsound2-VBR.webm
+
+
+To Use it preaload then trigger the scene change to the video file in step 13 then after the video plays trigger preload and change the scene to your Asteroid
